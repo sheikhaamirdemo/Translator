@@ -1,2 +1,2 @@
 # Translator
-This Translator will help us to translate in any language of the using api.
+This Repo is a part of Google Translator but not similar to Google Translator.
